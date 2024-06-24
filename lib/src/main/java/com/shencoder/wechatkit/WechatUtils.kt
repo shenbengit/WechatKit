@@ -19,6 +19,8 @@ import java.lang.ref.WeakReference
  * 微信sdk使用工具类
  * 使用这些方法应在用户同意隐私政策之后
  *
+ * [sdk](https://developers.weixin.qq.com/doc/oplatform/Mobile_App/Access_Guide/Android.html)
+ *
  * @date    2023/10/24 20:05
  *
  */
